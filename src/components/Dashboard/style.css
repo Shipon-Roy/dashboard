@@ -1,0 +1,82 @@
+.bg-left{
+    background: #E1E1E1;
+    height: 996rem;
+}
+
+.d-text{
+    color: #000;
+    font-size: 15px;
+    list-style: none;
+    text-decoration: none;
+    line-height: 50px;
+}
+.d-text:hover{
+    background: #E1E1E1;
+    color: #2D5BFF;
+    padding: 4px 20px;
+    border-radius: 10px;
+}
+
+/* dashboardHome */
+.h-notification{
+    display: flex;
+    background: #c7bd87;
+    line-height: 10px;
+    padding: 15px;
+    border-left: 5px solid #9D8506;
+}
+
+.p-card{
+    display: flex;
+}
+.p-card img{
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+.p-cardText{
+    line-height: 4px;
+}
+.p-cardText h6{
+    color: #181818;
+}
+.p-cardText span{
+    color: #747474;
+    font-size: 12px;
+}
+.p-tk{
+    color: red;
+    margin-left: 230px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.s-card{
+    margin-top: 10px;
+    line-height: 4px;
+}
+.s-calndr{
+    margin-left: 220px;
+}
+.s-calndr img{
+    margin-left: 7px;
+}
+
+/* totalSale */
+.t-date{
+    margin-left: 425px;
+}
+.t-brand{
+    line-height: 3px;
+}
+.t-sales{
+    margin-left: 200px;
+}
+
+.t-pieChart{
+    width: 150px;
+}
+.sale-today{
+    margin-left: 100px;
+}
